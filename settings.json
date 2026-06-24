@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "NigerianPerson",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "besgsmps2.aternos.me",
